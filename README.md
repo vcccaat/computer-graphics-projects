@@ -70,7 +70,11 @@ For the last part of the core assignment you will add some custom functionality 
 
 ## Final Demo:
 
-<video src="inputs/Video demo of creative part .mp4"></video>
+
+
+[![bouncing emoji](inputs/emoji.png)](inputs/Video demo of creative part .mp4) "Play the video in inputs folder"
+
+
 
 # Assignment 3: Imaging
 
@@ -92,7 +96,7 @@ DEMO of gaussian filter and sharpen filter:
 
 <img src="inputs/convolution-reference.png" alt="convolution-reference " style="width:200px;" />
 
-<img src="../CS5620/assignment3/reference/convolution-reference-medium.png" alt="convolution-reference-medium" style="width:200px;" />
+<img src="inputs/convolution-reference-medium.png" alt="convolution-reference-medium " style="width:200px;"  />
 
 <img src="inputs/sharpened-reference-medium.png" alt="sharpened-reference-medium" style="width:200px;" />
 
@@ -102,7 +106,7 @@ DEMO of gaussian filter and sharpen filter:
 
   <img src="inputs/room.jpg" alt="room" style="width:400px;" />
 
-<img src="../CS5620/assignment3/reference/distortion-img-lin-reference.png" alt="distortion-img-lin-reference" style="width:400px;"/>
+<img src="inputs/distortion-img-lin-reference.png" alt="distortion-img-lin-reference " style="width:400px;" />
 
 - [CreativePart.ipynb](./CreativePart.ipynb) in the creative part, I implemented edge detection using sobel kernel and set obvious edges with a RGB value. I built this filter to mimic the effect of a color pencil sketch
 
