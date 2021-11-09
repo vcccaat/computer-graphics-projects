@@ -1,4 +1,8 @@
-Assignment 4: Ray Tracing
+
+
+This repo demonstrates my assignments and projects in computer graphics.
+
+# Assignment 4: Ray Tracing
 
 1. Implement ray-sphere intersection and ray generation.  Then you can make a provisional outer loop that intersects the eye ray with the first object in the scene, returning white on a hit and black on a miss, to get an image like this for `two_spheres.py`:
 
@@ -34,11 +38,11 @@ Our group used the sphere class for building our 3d objects in the rendered imag
 
 DEMO:
 
-​                         <img src="inputs/Creative.png" alt="Creative" style="zoom:43%;" />	  
+​                         <img src="inputs/Creative.png" alt="Creative" style="width:400px;" />	  
 
-<img src="inputs/demo1.png" alt="demo1 " style="zoom:33%;" />
+<img src="inputs/demo1.png" alt="demo1 " style="width:400px;" />
 
-<img src="inputs/demo2.png" alt="demo2 " style="zoom:33%;" />
+<img src="inputs/demo2.png" alt="demo2 " style="width:400px;" />
 
 # Assignment 2
 
@@ -62,11 +66,11 @@ Implment the following:
 
 For the last part of the core assignment you will add some custom functionality to the scene view shown on the right side of our application. Your task will be to implement a simple type of curve subdivision, which provides a way to generate a smooth curves based on low-resolution input polygons. 
 
-![](images/cs4620iscool.jpg)
+<img src="images/cs4620iscool.jpg" alt=" " style="width:400px;"/>
 
 ## Final Demo:
 
-
+<video src="inputs/Video demo of creative part .mp4"></video>
 
 # Assignment 3: Imaging
 
@@ -76,9 +80,9 @@ Implemented:
 
 DEMO of white balancing:
 
-<img src="inputs/whiteblance.png" alt="whiteblance" style="zoom:25%;" />
+<img src="inputs/whiteblance.png" alt="whiteblance" style="width:400px;" />
 
-<img src="inputs/whitebalanceAfter.png" alt="whitebalanceAfter " style="zoom:20%;" />
+<img src="inputs/whitebalanceAfter.png" alt="whitebalanceAfter " style="width:400px;" />
 
 
 
@@ -86,25 +90,25 @@ DEMO of white balancing:
 
 DEMO of gaussian filter and sharpen filter:
 
-<img src="inputs/convolution-reference.png" alt="convolution-reference " style="zoom:25%;" />
+<img src="inputs/convolution-reference.png" alt="convolution-reference " style="width:200px;" />
 
-<img src="../CS5620/assignment3/reference/convolution-reference-medium.png" alt="convolution-reference-medium" style="zoom:67%;" />
+<img src="../CS5620/assignment3/reference/convolution-reference-medium.png" alt="convolution-reference-medium" style="width:200px;" />
 
-<img src="inputs/sharpened-reference-medium.png" alt="sharpened-reference-medium" style="zoom:70%;" />
+<img src="inputs/sharpened-reference-medium.png" alt="sharpened-reference-medium" style="width:200px;" />
 
 * [Distortion.ipynb](Distortion.ipynb) Image warping involves moving content around in an image.  We will apply a simple image warp that corrects for the distortion in a wide angle lens.
 
   DEMO:
 
-  <img src="inputs/room.jpg" alt="room" style="zoom:33%;" />
+  <img src="inputs/room.jpg" alt="room" style="width:400px;" />
 
-<img src="../CS5620/assignment3/reference/distortion-img-lin-reference.png" alt="distortion-img-lin-reference" style="zoom:33%;" />
+<img src="../CS5620/assignment3/reference/distortion-img-lin-reference.png" alt="distortion-img-lin-reference" style="width:400px;"/>
 
 - [CreativePart.ipynb](./CreativePart.ipynb) in the creative part, I implemented edge detection using sobel kernel and set obvious edges with a RGB value. I built this filter to mimic the effect of a color pencil sketch
 
-  <img src="inputs/1.png" alt="1 " style="zoom:24%;" />
+  <img src="inputs/1.png" alt="1 " style="width:400px;" />
 
-<img src="inputs/cornell.png" alt="cornell" style="zoom:25%;" />
+<img src="inputs/cornell.png" alt="cornell" style="width:400px;" />
 
 # Assignment 1: Point-Line Duality 
 
@@ -112,8 +116,7 @@ In this assignment you will complete the basic mathematical functions underlying
 
 ### Completed Demo:
 
-![](images/WithAxesLabels.png)
+<img src="images/WithAxesLabels.png" alt=" " style="width:400px;" />
 
-![](images/FinishedCodeImage.png)
+<img src="images/FinishedCodeImage.png" style="width:400px;" />
 
-# 
