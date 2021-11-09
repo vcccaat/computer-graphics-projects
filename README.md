@@ -70,7 +70,7 @@ For the last part of the core assignment you will add some custom functionality 
 
 ## Final Demo:
 
-![bouncing emoji](inputs/emoji.png) [Go to the video demo in inputs folder]((inputs/Video demo of creative part .mp4))
+![bouncing emoji](inputs/emoji.png) [Go to the video demo in inputs folder](inputs/Video demo of creative part .mp4)
 
 
 
