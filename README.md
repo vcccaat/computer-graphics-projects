@@ -2,6 +2,14 @@
 
 This repo demonstrates my assignments and projects in computer graphics.
 
+# Final Assignment
+
+Built a fully functional Kirby game with camera control and different shading effects using three.js and applied basic animation principles on Kirby, Kirby can fly around, walk around and inhale bombs in the scene. Implemented particle system to mimic a waterfall, and used sprite model to design a river on a mountain. 
+
+![kirbyGame](inputs/kirbyGame.png)
+
+DEMO: https://cs5620-computer-graphic.vercel.app/
+
 # Assignment 4: Ray Tracing
 
 1. Implement ray-sphere intersection and ray generation.  Then you can make a provisional outer loop that intersects the eye ray with the first object in the scene, returning white on a hit and black on a miss, to get an image like this for `two_spheres.py`:
