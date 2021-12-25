@@ -6,9 +6,11 @@ This repo demonstrates my assignments and projects in computer graphics.
 
 Built a fully functional Kirby game with camera control and different shading effects using three.js and applied basic animation principles on Kirby, Kirby can fly around, walk around and inhale bombs in the scene. Implemented particle system to mimic a waterfall, and used sprite model to design a river on a mountain. 
 
-![kirbyGame](inputs/kirbyGame.png)
+## Demo video
+<a href="https://graphics-kirby-demo.vercel.app">
+<img src="inputs/kirbyGame.png" alt=" " style="width:400px;"/></a>
 
-DEMO: https://cs5620-computer-graphic.vercel.app/
+Try out here: https://cs5620-computer-graphic.vercel.app/
 
 # Assignment 4: Ray Tracing
 
@@ -76,9 +78,9 @@ For the last part of the core assignment you will add some custom functionality 
 
 <img src="images/cs4620iscool.jpg" alt=" " style="width:400px;"/>
 
-## Final Demo:
-
-![bouncing emoji](inputs/emoji.png) [Go to the video demo in inputs folder](inputs/Video demo of creative part .mp4)
+## Demo video:
+<a href="https://graphics-emoji-demo.vercel.app/">
+<img src="inputs/emoji.png" alt=" " style="width:400px;"/></a>
 
 
 
