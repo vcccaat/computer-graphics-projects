@@ -11,6 +11,7 @@ Built a fully functional Kirby game with camera control and different shading ef
 <img src="inputs/kirbyGame.png" alt=" " style="width:400px;"/></a>
 
 Try out here: https://cs5620-computer-graphic.vercel.app/
+Source Code: https://github.com/vcccaat/kirby-game
 
 # Assignment 4: Ray Tracing
 
